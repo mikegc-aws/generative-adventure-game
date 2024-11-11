@@ -1,6 +1,9 @@
-# Amazon Bedrock Adventure Game
+# Generative Adventure Game
 
 Introducing "The Adventure Game", a concept for the November 2024 "AWS Game Builder Challenge".  It's a text based, open ended, RPG (role playing game).  The game use generative models from Amazon Bedrock using the Converse API to build an AI agent that uses a graph data structure to maintain game state.
+
+![Adventure Game](img/adventure-game.jpg)
+
 
 For a more detailed overview of the project, including how to customize and update the game,please see this blog post: [Building an Open-Ended Text-Based RPG with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/building-an-open-ended-text-based-rpg-with-amazon-bedrock/)
 
