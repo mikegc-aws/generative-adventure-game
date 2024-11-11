@@ -6,11 +6,11 @@ For a more detailed overview of the project, including how to customize and upda
 
 ### Note on Cost:
 
-    Running this project will incur costs that are NOT covered by AWS Free Tier (and may not be covered by AWS credits).  This project makes use of generative models through Amazon Bedrock, and depending on which model is used, the size of prompts and the number of turns, the cost will vary.  This project is not intended to be a cost effective way to run a game.  Please review the [Amazon Bedrock Pricing](https://aws.amazon.com/bedrock/pricing/) page for more details.
+> Running this project will incur costs that are NOT covered by AWS Free Tier (and may not be covered by AWS credits).  This project makes use of generative models through Amazon Bedrock, and depending on which model is used, the size of prompts and the number of turns, the cost will vary.  This project is not intended to be a cost effective way to run a game.  Please review the [Amazon Bedrock Pricing](https://aws.amazon.com/bedrock/pricing/) page for more details.
 
 ### Note on Game Play (and Kids):
 
-    This game uses generative AI, and as such the game state may not be consistent or predictable.  Caution should be used when playing this game, especially with sensitive topics or allowing children to play. It is not recommended to enter private information or allow children to play without adult supervision.
+> This game uses generative AI, and as such the game state may not be consistent or predictable.  Caution should be used when playing this game, especially with sensitive topics or allowing children to play. It is not recommended to enter private information or allow children to play without adult supervision.
 
 ### Requirements
 
